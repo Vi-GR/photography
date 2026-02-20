@@ -1,6 +1,7 @@
 # Base configs
-baseurl: "https://vi-gr.github.io/photography/"
-#baseurl: "" # Comment the above line and uncomment this to test the website locally
+url: "https://vi-gr.github.io"
+baseurl: "/photography"
+
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
